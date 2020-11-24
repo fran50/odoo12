@@ -6,3 +6,8 @@ haz un git clone del archivo y a continuacion.
 sudo chmod u+x odoo_install.sh
 
 sudo sh odoo_install.sh
+
+conprueba tu ip 
+ifconfig 
+
+pasa al equipo anfitrion y llamas al ubuntu http://la_ip_ubuntu:8069
