@@ -1,6 +1,8 @@
 
 monta unbuntu 18.04
 
+haz un git clone del archivo y a continuacion.
+
 sudo chmod u+x odoo_install.sh
 
 sudo sh odoo_install.sh
