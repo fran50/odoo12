@@ -1,0 +1,6 @@
+
+monta unbuntu 18.04
+
+sudo chmod u+x odoo_install.sh
+
+sudo sh odoo_install.sh
